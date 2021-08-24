@@ -1,5 +1,5 @@
 ---
-title: Creando un laboratorio para threat hunting
+title: Creando un laboratorio para threat hunting. Instalar pfSense
 author: Rafa de Vega
 date: 2021-08-11 11:33:00 +0800
 categories: [Threat Hunting, Laboratorio]
@@ -8,6 +8,7 @@ tags: [threat hunting,hunting,laboratorio]
 
 En esta  serie de posts, nos centraremos en crear un pequeño laboratorio para nuestros ejercicios de threat hunting, existen varias soluciones ya automatizadas. como pueden ser [DetectionLab](https://github.com/clong/DetectionLab) o [adaz](https://github.com/christophetd/Adaz), que mediante un pequeño fichero de configuración te permiten desplegar un laboratorio completo en distintas plataformas de virtualización. Estas soluciones son geniales, pero lo que buscaremos montando nuestro propio laboratorio de forma manual, será aprender, y tener las herramientas justas que vamos emplear. En caso de necesitar más, las integraremos más adelante, no necesitamos desplegar un montón de herramientas que no vamos usar al principio.
 
+## Laboratorio
 Así pues, pasamos a describir nuestro pequeño laboratorio. El entorno, tratará de emular un pequeño dominio windows que podría tener cualquier empresa, pero a muy pequeña escala y sin segmentación de red inicialmente, pero con lo suficiente para ejecutar nuestra emulación de adversarios y la recolecta de posibles indicadores para el desarrollo de la detección. Así pues, las máquinas que desplegaremos son:
 
 - **pfSense**. Será nuestro firewall, que separará y conectará nuestra red local con la red interna del laboratorio.
