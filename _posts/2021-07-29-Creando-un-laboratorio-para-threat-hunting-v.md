@@ -1,7 +1,7 @@
 ---
 title: Creando un laboratorio para threat hunting IV. Configurando la auditoría de los sistemas operativos
 author: Rafa de Vega
-date: 2021-07-22 11:33:00 +0800
+date: 2021-07-29 11:33:00 +0800
 categories: [Threat Hunting, Laboratorio]
 tags: [threat hunting,hunting,laboratorio, windows, redhat, auditoría]
 ---
