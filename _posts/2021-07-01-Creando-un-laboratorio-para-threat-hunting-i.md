@@ -28,6 +28,7 @@ Quizá, a alguna máquina se le podrá recortar algún GB de RAM para reducir es
 
 El esquema del laboratorio tendría la siguiente pinta:
 
+![img](/assets/img/intro/img1.bmp){: width="1086" height="542"}
 
 ## Índice
 
@@ -39,5 +40,3 @@ Dejamos aquí los enlaces a los distintos posts que conforman las instrucciones 
 - [Desplegando máquinas de dominio](https://rafadvega.github.io/posts/Creando-un-laboratorio-para-threat-hunting-iv/)
 - [Configurando la auditoría de los sistemas operativos](https://rafadvega.github.io/posts/Creando-un-laboratorio-para-threat-hunting-v/)
 - [Desplegando Splunk](https://rafadvega.github.io/posts/Creando-un-laboratorio-para-threat-hunting-vi/)
-
-![img](/assets/img/intro/img1.bmp){: width="1086" height="542"}
