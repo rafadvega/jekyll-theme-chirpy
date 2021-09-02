@@ -147,7 +147,8 @@ suppress_sourcename = true
 suppress_keywords = true
 suppress_task = true
 suppress_opcode = true
-blacklist = EventCode="4688" $XmlRegex="(<Data Name='NewProcessName'>(C:\\Program Files\\SplunkUniversalForwarder\\bin\\*)<\/Data>)"
+blacklist = 4703
+blacklist1 = EventCode="4688" $XmlRegex="(<Data Name='NewProcessName'>(C:\\Program Files\\SplunkUniversalForwarder\\bin\\*)<\/Data>)"
 
 [WinEventLog://Microsoft-Windows-WinRM/Operational]
 renderXml = true
