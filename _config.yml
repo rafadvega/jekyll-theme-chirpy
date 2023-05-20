@@ -31,8 +31,8 @@ url: 'https://rafadvega.github.io'
 github:
   username: rafadvega             # change to your github username
 
-twitter:
-  username: rafadvega            # change to your twitter username
+linkedin:
+  username: rdevega            # change to your linkedin username
 
 social:
   # Change to your full name.
@@ -41,7 +41,7 @@ social:
   email: rafadevega@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/rdevega    # change to your twitter homepage
+    - https://www.linkedin.com/in/rdevega    # change to your linkedin homepage
     - https://github.com/rafadvega       # change to your github homepage
 
 google_site_verification: google_meta_tag_verification # change to your verification string
