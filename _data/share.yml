@@ -3,9 +3,9 @@
 
 platforms:
   -
-    type: Twitter
-    icon: "fab fa-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+    type: Linkedin
+    icon: "fab fa-linkedin"
+    link: "https://es.linkedin.com/in/rdevega"
   -
     type: Facebook
     icon: "fab fa-facebook-square"

@@ -41,9 +41,8 @@ social:
   email: rafadevega@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/rafadvega      # change to your twitter homepage
+    - https://www.linkedin.com/in/rdevega    # change to your twitter homepage
     - https://github.com/rafadvega       # change to your github homepage
-    - https://www.linkedin.com/in/rdevega
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
