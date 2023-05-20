@@ -1,5 +1,5 @@
 ---
-title: Creando un laboratorio para threat hunting IV. Desplegando Splunk
+title: Creando un laboratorio para threat hunting VI. Desplegando Splunk
 author: Rafa de Vega
 date: 2021-08-05 11:33:00 +0800
 categories: [Threat Hunting, Laboratorio]
